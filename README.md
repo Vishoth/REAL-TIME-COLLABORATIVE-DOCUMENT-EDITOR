@@ -1,4 +1,15 @@
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+TASK-4 CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
+
+COMPANY: Codtech it solutions
+
+Name: MUZAMMIL AHMED
+
+INTERN ID: CT04WH34
+
+Domain: FULL STACK DEVELOPMENT
+
+Duration: 8 week
 # Collab-Editor
 A Real-time Collaborative Editor using Node.js, WebSockets, and React
 ![Screenshot 2025-04-12 194826](https://github.com/user-attachments/assets/d2cb15bc-7f20-4c6d-bdf5-798596ecfef5)
